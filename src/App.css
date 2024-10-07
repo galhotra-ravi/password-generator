@@ -1,0 +1,7 @@
+*{
+    user-select: none;
+}
+
+::selection{
+    background-color: #0175fe;
+}
